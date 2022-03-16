@@ -3,7 +3,7 @@
  <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
 </div>
 
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ronaldo!</h1>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm JOYEL!</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Samayapuram, Trichy. I have a huge enthusiasm in Cloud Computing(AWS). I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
