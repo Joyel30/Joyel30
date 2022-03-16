@@ -9,7 +9,7 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Joyel30&label=Profile%20views&color=ce9927&style=flat" alt="Joyel30" /> </p>
-⚡ Fun facts -**Taking too much time in "Main function" is a Crime.**
+⚡ Fun facts -**Code is like humor. When you have to explain it, it’s bad.**
 
 <h1 align="center">Tech-Stack</h1>
 
@@ -19,13 +19,7 @@ I have great enthusiasm in new innovative technologies and I love to learn and l
  <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-   <img alt="AWS" src="https://img.shields.io/badge/aws-%5F674700.svg?&style=for-the-badge&logo=amazon&logoColor=black" />
- <img alt="Fire Base" src="https://img.shields.io/badge/firebase-%231572B6.svg?&style=for-the-badge&logo=firebase&logoColor=yellow" />
-    <img alt="Android" src="https://img.shields.io/badge/android-%982380svg?&style=for-the-badge&logo=android&logoColor=green" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
- <img alt="Django" src="https://img.shields.io/badge/django-%982380svg?&style=for-the-badge&logo=django&logoColor=black" />
-
 </p>
 
 I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
