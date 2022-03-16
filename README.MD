@@ -1,5 +1,5 @@
 <div align="center"> 
- <img src="https://github.com/ronaldo0820/ronaldo0820/blob/main/github.gif" width="250" height="260"> 
+ <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="250" height="260"> 
  <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
 </div>
 
