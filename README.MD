@@ -1,6 +1,6 @@
 <div align="center"> 
  <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="250" height="260"> 
- <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
+ <img src="https://i.pinimg.com/originals/72/98/a2/7298a259e46ced8d8d636b3081a1ed57.gif" width="500" height="260"> 
 </div>
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm JOYEL!</h1>
