@@ -38,7 +38,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/ronaldo.matthew.56" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://www.instagram.com/ronald.jr__/?hl=en"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
-   <a href="https://www.codechef.com/users/ronaldo8"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
+   <a href="https://www.codechef.com/"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
    <a href="https://www.hackerrank.com/dashboard"> <img src="https://img.shields.io/badge/hackerrank-800080?style=for-the-badge&logo=hackerrank&logoColor=white">
  </a>
 
